@@ -1,0 +1,27 @@
+{
+  "name": "dep-injector",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonewman/dep-injector.git"
+  },
+  "keywords": [
+    "function",
+    "dependency",
+    "injector"
+  ],
+  "author": "Sam Newman",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/sonewman/dep-injector/issues"
+  },
+  "homepage": "https://github.com/sonewman/dep-injector",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}
